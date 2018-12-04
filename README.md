@@ -19,3 +19,8 @@ will be put directly into the script as a word.
 ## To Do
 - [ ] Punctuation
 - [ ] Capitalization
+
+## Credits
+The word list was shameless plundered from [Mangle Bot][0]
+
+[0]: https://github.com/RocketBit/mangler-bot
